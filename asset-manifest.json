@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/heptaClone/static/css/main.594719f8.css",
+    "main.js": "/heptaClone/static/js/main.e6bad25c.js",
+    "static/js/453.8ab44547.chunk.js": "/heptaClone/static/js/453.8ab44547.chunk.js",
+    "static/media/hero_1.jpg": "/heptaClone/static/media/hero_1.31da2dfb6b409cfe6ba1.jpg",
+    "static/media/img_1_long.jpg": "/heptaClone/static/media/img_1_long.3a0658ac77dbd9f650c0.jpg",
+    "index.html": "/heptaClone/index.html",
+    "main.594719f8.css.map": "/heptaClone/static/css/main.594719f8.css.map",
+    "main.e6bad25c.js.map": "/heptaClone/static/js/main.e6bad25c.js.map",
+    "453.8ab44547.chunk.js.map": "/heptaClone/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.594719f8.css",
+    "static/js/main.e6bad25c.js"
+  ]
+}
