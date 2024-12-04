@@ -4,8 +4,8 @@ grid-template-columns: repeat(3, 1fr);
 grid-template-rows: auto;
 padding-top: 1%;
 padding-bottom: 8%;
-padding-left: 15vw;
-padding-right: 15vw;
+padding-left: 15%;
+padding-right: 15%;
 gap: 25px;
 background-color: rgb(101, 192, 186);
 }
@@ -13,8 +13,8 @@ background-color: rgb(101, 192, 186);
 .grid-container{
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: auto auto auto;
-    padding-left: 8vw !important;
-    padding-right: 8vw !important;
+    padding-left: 8% !important;
+    padding-right: 8% !important;
 }
 }
 @media (max-width: 770px){

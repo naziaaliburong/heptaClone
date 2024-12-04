@@ -24,7 +24,7 @@ function App() {
   return (
    <Routes>
       <Route path='/' element={
-        <div>
+        <div className='containerr'>
           <div id="nav-hero">
             <Navbar />
             <Hero/>
